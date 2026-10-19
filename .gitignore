@@ -1,0 +1,26 @@
+# 敏感与运行时数据
+data/
+logs/
+*.db
+*.db-*
+*.log
+*.pth
+*.index
+*.pt
+*.ckpt
+.env
+users.json
+zh_cache.json
+manifest.json
+qrcode*.png
+*.zip
+*.7z
+
+# 本地运行时目录
+astrbot/
+napcat/
+voice/
+stickers/
+downloads/
+.bot_runtime/
+deploy_state.json

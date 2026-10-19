@@ -1,0 +1,7 @@
+name: gacha
+display_name: 抽卡
+desc: 发送「抽卡」随机抽一个动漫女角色，并附上该角色的高清角色图
+help: 发「抽卡」从 AniList 人气榜前500随机抽一名角色（中文译名+出处，在线取图不落本地）；每号每天一次
+version: 2.1.0
+author: local
+astrbot_version: ">=4.11.0"
